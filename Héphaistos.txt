@@ -1,1 +1,1 @@
-Héphaistos 130 130 40 20 20 15 feu flamme_ébouillante 
+Héphaistos 130 130 40 20 20 15 feu flamme_ébouillante "projette un torrent de flammes brûlantes sur l'adversaire" 30 3 2 0
